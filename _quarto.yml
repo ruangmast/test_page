@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "FIRE Sustainability Analytics"
+  sidebar:
+    background: black
+    logo: "images/official-icon-FIRE-SS-SA.png"
+    style: docked
+    contents:
+      - href: index.qmd
+        text: Home
+      - href: recognition.qmd
+        text: Awards & Grants
+      - href: alumni.qmd
+        text: Notable Alumni
+
+format:
+  html:
+    theme: darkly.css
+    #css: styles.css
+    toc: true
+
+
+
