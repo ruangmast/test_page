@@ -16,7 +16,7 @@ The stream is led by Faculty Leader, [Dr. Thanicha Ruangmas](https://thanicharua
 
 |                                       |                                   |                                    |
 |---------------------------------------|-----------------------------------|------------------------------------|
-| ![](images/thanicha.jpg){width="300"} | ![](images/lars.jpg){width="301"} | ![](images/jorge.jpg){width="300"} |
+| ![](images/thanicha.jpg){height="300"} | ![](images/lars.jpg){height="301"} | ![](images/jorge.jpg){height="300"} |
 | Dr. Thanicha Ruangmas                 | Dr. Lars Olson                    | Dr. Jorge Holzer                   |
 
 The Peer Research Mentors help train and supervise the students' research projects.
