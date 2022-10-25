@@ -1,24 +1,30 @@
 ---
-title: Sustainability Analytics Stream Website
+format: html
+editor: visual
+html:
+toc: false
 ---
 
-We are a research stream within the [University of Maryland](https://www.umd.edu/)'s the [First Year Innovation & Experience (FIRE)](https://www.fire.umd.edu/).
+![](images/official-logo-FIRE-SS-SA_without_umd_logo.png)
 
-### What do we do?
+![](images/keywords_banners.jpg){fig-align="left"}
 
-We use data science and economic models to understand the **impact of regulations on the environment**, or the **impact of the changing environment on society.**
+We are a research stream within the [University of Maryland](https://www.umd.edu/)'s [The First-Year Innovation and Experience (FIRE)](https://www.fire.umd.edu/) program.
 
-![](images/venn.jpg){fig-align="center" width="300"}
+## **What do we do?**
 
-### Who is in the stream?
+Recent advances in computing and data availability have allowed researchers to draw conclusions linking environmental factors to social outcomes, and as such, we strive to understand the socioeconomic consequences of climate change and environmental regulations. We conduct impact assessments using methodology from environmental studies, data science, and economics.
 
-The stream is led by Faculty Leader, [Dr. Thanicha Ruangmas](https://thanicharuangmas.wixsite.com/main/), and Faculty Collaborators, Dr. Lars Olson, and Dr. Jorge Holzer.
+The map below displays the areas in which the stream has been studying. We cover a wide range of topics that impact a large geographical range.
 
-|                                       |                                   |                                    |
-|---------------------------------------|-----------------------------------|------------------------------------|
-| ![](images/thanicha.jpg){height="300"} | ![](images/lars.jpg){height="301"} | ![](images/jorge.jpg){height="300"} |
-| Dr. Thanicha Ruangmas                 | Dr. Lars Olson                    | Dr. Jorge Holzer                   |
+![](map.png)
 
-The Peer Research Mentors help train and supervise the students' research projects.
+## **Why does it matter?**
 
-![](images/cohort22.jpg){alt="The 2022 cohort" fig-align="center" width="755"}
+The degrading environment is one of humanity's most urgent problems. Policies or actions can have intended and unintended consequences. By studying the impact of past environmental phenomena and regulations, we can help inform policymakers to make better decisions in the future.
+
+## **What do we learn?**
+
+The stream tailors R programming to students of all skill levels: from basic to cutting-edge applications. Every student learns how to program in R in order to query large quantities of data, clean and combine environmental and socioeconomic data, visualize data in the form of graphs and maps, and use regression analysis to identify causal relationships.
+
+Throughout their experience in the program, students develop an understanding of environmental policies, the intended and unintended consequences, and the impacts on demographics. From there, they learn to communicate their research outcomes to audiences with varying technical backgrounds.

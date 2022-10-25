@@ -1,7 +1,34 @@
 ---
 title: "Awards & Grants"
+toc: false
 ---
 
-### In 2022
+### October 12, 2022
 
-Courtney DeLoatch-Hill, Elenna Mach, and Jillian Wimbush received the "Honorable Mentions" award for the [EPA's Environmental Justice Video Challenge for Students](https://www.epa.gov/innovation/environmental-justice-video-challenge-students). Watch their [YouTube](https://www.youtube.com/watch?v=lKTLko3V6xA) video.
+FIRE Semester 3 student, Geoffrey Zhang, presented his team's poster at [AGNR's Cornerstone event](https://agnr.umd.edu/about/agnr-cornerstone-event-optimize-urban-environments-through-design-green-technology). He became the 2nd place winner under the event's theme, "Optimizing Urban Environments." The project, which looks at the impact of light rails on air pollution, was a result of a collaboration between Summer Interns; Lillian Hsu, Terrence Lo, Jillian Wimbush, and team leader Geoffrey Zhang.
+
+![](images/remsberg_22101217536.jpg){fig-align="center" width="500"}
+
+![](images/remsberg_22101217839.jpg){fig-align="center" width="500"}
+
+------------------------------------------------------------------------
+
+### July 22, 2022
+
+PRMs Courtney DeLoatch-Hill, Elenna Mach, and Jillian Wimbush received the "Honorable Mentions" award for the [EPA's Environmental Justice Video Challenge for Students](https://www.epa.gov/innovation/environmental-justice-video-challenge-students). Watch their [YouTube](https://www.youtube.com/watch?v=lKTLko3V6xA) video. They also presented their work at UMD's Undergraduate Research Day on April 27, 2022.
+
+![](images/EPAEJ.png){fig-align="center" width="500"}
+
+------------------------------------------------------------------------
+
+### June 13, 2022
+
+PRMs Courtney DeLoatch-Hill and Jason Mazon received the prestigious [Ernest F. Hollings Undergraduate Scholarship.](https://www.noaa.gov/office-education/hollings-scholarship)
+
+------------------------------------------------------------------------
+
+### April 26, 2022
+
+A research project that looks at the impact of air pollution on violent crime, was selected to represent the state of Maryland at the [2022 Posters on the Hill](https://www.cur.org/what/events/students/poh/) event. Melissa Calabrese presented the research project virtually on behalf of the team, which included Melissa Calabrese, Annika Kuchel, Hannah Marszalek, Nicholas Martino, Zoe McConnell, Maggie Palka, Sambit Sahoo, Ryan Tabouguia, Arianna Thomson, and Anna Wietrecki. The team also presented their research in progress during UMD's Undergraduate Research Day on April 27, 2022 and the FIRE Summit on November 3, 2021.
+
+![](images/POH.png){fig-align="center" width="500"}

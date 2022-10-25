@@ -32,7 +32,7 @@ $cyan:    #3498db !default;
 // Body
 
 $body-bg:                   $white !default;
-$body-color:                $gray-900 !default;
+$body-color:                $gray-800 !default;
 @function body-mix($weight) {
     @return mix($body-bg, $body-color, $weight);
 }

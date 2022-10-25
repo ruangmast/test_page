@@ -6,21 +6,40 @@ website:
   title: "FIRE Sustainability Analytics"
   sidebar:
     background: black
-    logo: "images/official-icon-FIRE-SS-SA.png"
+    logo: "images/UMD_FIRE_P1_Color_W_logo.png"
     style: docked
     contents:
-      - href: index.qmd
-        text: Home
+#      - section: "Research Projects"
+#        contents: 
+#           - href: research_projects.qmd
+#             text: Overview
+#           - href: citrus.qmd
+#             text: Citrus Canker
+      - section: "Presentations"
+        contents:
+#           - href: year_2021.qmd
+#             text: "Year 2021"
+#           - href: year_2020.qmd
+#             text: "Year 2020"
+#           - href: year_2019.qmd
+#             text: "Year 2019"
+           - href: hill_urd.qmd
+             text: "Year 2022"
+      - section: "Our Team"
+        contents:
+           - href: leaders.qmd
+             text: Faculty and Leaders
+#           - href: people.qmd
+#             text: Students
+#           - href: alumni.qmd
+#             text: Notable Alumni
+
       - href: recognition.qmd
         text: Awards & Grants
-      - href: alumni.qmd
-        text: Notable Alumni
+
 
 format:
   html:
     theme: darkly.css
     #css: styles.css
     toc: true
-
-
-
